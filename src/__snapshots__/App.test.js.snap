@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <div>
+      <div
+        className="card"
+        style={
+          Object {
+            "width": "18rem",
+          }
+        }
+      >
+        <img
+          className="card-img-top"
+          src="https://media-exp1.licdn.com/dms/image/C4E03AQHi6O5TVMl7ow/profile-displayphoto-shrink_200_200/0/1645913746296?e=1659571200&v=beta&t=GZc-bmyGA1U8wGTB-I8UWtZPErw9gxxF8fIinR4757Q"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            @brentonring
+          </div>
+          <p
+            className="card-text"
+          >
+            I am a software developer student based in Fort Collins, CO.
+          </p>
+        </div>
+      </div>
+    </div>
+    <h2>
+      test
+    </h2>
+    <p>
+      Edit 
+      <code>
+        src/App.js
+      </code>
+       and save to reload.
+    </p>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Learn React
+    </a>
+  </header>
+</div>
+`;
